@@ -2,3 +2,5 @@
 -git add --all
 -git commit -m ""
 -git push
+-git branch "nom_de_la_branche"
+-git switch "nom_de_la_branche"
